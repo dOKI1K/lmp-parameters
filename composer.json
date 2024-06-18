@@ -35,5 +35,7 @@
                 "Doki1k\\Parameters\\LmpParametersServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
