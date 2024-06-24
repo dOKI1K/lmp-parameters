@@ -1,6 +1,7 @@
 {
     "name": "doki1k/parameters",
-    "description": "PyH",
+    "description": "Parameters for Laravel",
+    "version": "0.1.0",
     "license": "MIT",
     "support": {
         "issues": "https://github.com/filamentphp/filament/issues",
